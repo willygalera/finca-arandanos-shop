@@ -30,7 +30,7 @@ export function Header() {
               alt="Finca de Arandanos - Hecho con Amor - Castelli Bs As"
               width={90}
               height={65}
-              className="object-contain h-12 w-auto"
+              className="object-contain h-22 w-auto"
               priority
             />
           </a>
